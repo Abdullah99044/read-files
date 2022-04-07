@@ -10,3 +10,4 @@ with open('zentext.txt' , 'r' ) as f:
         print(zen_lines )
 
 
+ 
